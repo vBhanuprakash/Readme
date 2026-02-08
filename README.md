@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bhanuprakash Vejendla 👋
 
 ## 🚀 About Me
 
@@ -61,14 +61,6 @@ _More projects coming soon as I progress in my learning journey!_
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
 ## 💭 Learning Philosophy
 
 > "The expert in anything was once a beginner." - Helen Hayes
@@ -95,7 +87,7 @@ I believe in learning by doing, making mistakes, and building real projects. Eve
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=vBhanuprakash&color=blue&style=flat-square)
 
 **Thanks for visiting my profile! Feel free to explore my repositories and connect!** 🚀
 
